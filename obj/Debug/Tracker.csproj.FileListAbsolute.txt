@@ -1,0 +1,16 @@
+C:\Users\Start\Desktop\Personal\Tracker\Tracker\bin\Debug\Tracker.exe.config
+C:\Users\Start\Desktop\Personal\Tracker\Tracker\bin\Debug\Tracker.exe
+C:\Users\Start\Desktop\Personal\Tracker\Tracker\bin\Debug\Tracker.pdb
+C:\Users\Start\Desktop\Personal\Tracker\Tracker\bin\Debug\MySql.Data.DLL
+C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.MainForm.resources
+C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.csproj.GenerateResource.cache
+C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.csproj.CopyComplete
+C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.exe
+C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.pdb
+C:\Users\Start\Desktop\Personal\Tracker\Tracker\bin\Debug\renci.sshnet.dll
+C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.csproj.AssemblyReference.cache
+C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.exe.config
+C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.FindQuery.resources
+C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.NewQuerry.resources
