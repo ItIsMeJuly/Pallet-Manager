@@ -10,7 +10,6 @@ C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.csproj.CopyCom
 C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.exe
 C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.pdb
 C:\Users\Start\Desktop\Personal\Tracker\Tracker\bin\Debug\renci.sshnet.dll
-C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.csproj.AssemblyReference.cache
 C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.exe.config
 C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.FindQuery.resources
 C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.NewQuerry.resources

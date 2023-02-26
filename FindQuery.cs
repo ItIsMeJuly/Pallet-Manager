@@ -193,6 +193,19 @@ namespace Tracker
             }
         }
 
+        protected override bool ProcessCmdKey(ref Message message, Keys keys)
+        {
+            switch (keys)
+            {
+                case Keys.S | Keys.Control:
+                    button2_Click(null, null);
+                    break;
+            }
+
+            // run base implementation
+            return base.ProcessCmdKey(ref message, keys);
+        }
+
         private void SaveDataToDB(ref MySqlDataReader reader, ref MySqlCommand commandDatabase)
         {
             reader = commandDatabase.ExecuteReader();
