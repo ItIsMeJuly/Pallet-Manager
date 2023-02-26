@@ -176,7 +176,7 @@ namespace Tracker
 
             ListViewItem item = (ListViewItem)li.Clone();
 
-            string input = Interaction.InputBox(li.SubItems[subItemSelected].Text, listView1.Columns[subItemSelected].Text);
+            string input = Interaction.InputBox(li.SubItems[subItemSelected].Text, "Change request", li.SubItems[subItemSelected].Text);
             if(input != "")
             {
                 li.SubItems[subItemSelected].Text = input;
