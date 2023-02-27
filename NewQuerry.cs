@@ -76,7 +76,7 @@ namespace Tracker
             int exchangedPallets = Convert.ToInt32(tbPalletToExchange.Text);
 
             MySql.Data.MySqlClient.MySqlConnection conn;
-            string myConnectionString = "datasource=192.168.1.10;port=3307;username=user;password=;database=bomartrans";
+            string myConnectionString = "datasource=192.168.0.119;port=3307;username=user;password=;database=bomartrans";
 
             string query = "INSERT INTO publications (`PublicationID`, `ClaimAddress`, `DropAddress`, `PalletForExchange`, `ExchangedPallet`, `Saldo`, `Truck`, `Company`)" +
                 " VALUES ('" + tbID.Text + "', '" + tbFrom.Text + "', '" + tbTo.Text + "', '" + tbNumOfPallet.Text + "', '" + tbPalletToExchange.Text + "', '" + (allPallets - exchangedPallets) + "', '" + tbTruck.Text + "', '" + tbCompany.Text + "');";

@@ -13,3 +13,4 @@ C:\Users\Start\Desktop\Personal\Tracker\Tracker\bin\Debug\renci.sshnet.dll
 C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.exe.config
 C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.FindQuery.resources
 C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.NewQuerry.resources
+C:\Users\Start\Desktop\Personal\Tracker\Tracker\obj\Debug\Tracker.csproj.AssemblyReference.cache

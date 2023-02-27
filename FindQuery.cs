@@ -22,7 +22,7 @@ namespace Tracker
         private int index;
         private static Mutex mutex = new Mutex();
 
-        private readonly string connectionString = "datasource=192.168.1.10;port=3307;username=root;password=bomar771;database=bomartrans";
+        private readonly string connectionString = "datasource=192.168.0.119;port=3307;username=root;password=bomar771;database=bomartrans";
 
         public FindQuery()
         {
